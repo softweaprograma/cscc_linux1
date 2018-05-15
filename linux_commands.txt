@@ -1,0 +1,24 @@
+whatis
+mkdir 	: make directories
+rmdir	: remove empty directories
+touch 	: change file timestamps and also create an empty file
+cp 		: copy files and directories
+mv		: move (rename) files
+rm 		: remove files or directories
+pwd 	: print name of current/working directory
+ls 		: list directory contents
+info 	: get information about a command)
+man 	: get information about a command)
+ls -a 	: show all files including hidden)
+history
+hi
+. 		: current directory)
+.. 		: Parent directory)
+/ 		: root directory)
+cd / 	: change directory to root
+mkdir	: create directory
+whomai
+!!		: reissue bash command
+!# eg !2 will reissue the command 2 in history 
+
+ 
